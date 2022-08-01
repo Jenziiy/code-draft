@@ -1,3 +1,17 @@
-hi {
-  background-color: pink;
+
+table {
+}
+
+th {
+  background-color: green;
+  border:solid yellow;
+  width: 100px;
+}
+
+tr{
+  background-color: blue;
+}
+
+td{
+  background: pink;
 }
